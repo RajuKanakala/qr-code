@@ -27,6 +27,7 @@ body {
     overflow: hidden;
     background-color: var(--clr-white);
     padding: 0.8rem;
+    box-shadow: 0 0 2rem #ccc;
 }
 
 img {
